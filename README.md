@@ -1,1 +1,4 @@
-Crywolf Cybersecurity will be a blockchain-powered cybersecurity company and I'll start with launching a pre-sale token ERC-20 ICO.
+Announcement: 
+We have good news! The cryptocurrency has been successfully deployed to the BEP20, ERC20 and Gnosis chain networks.
+
+Crywolf is expected to bridge Arbitrum Layer 2 and Polygon network for a multichain pre-sale ICO launch.
